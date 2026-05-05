@@ -44,4 +44,3 @@ https://github.com/Anastasios-Nektarios-Loukas
 - Vasilis Gkaniatsas  
 https://github.com/VasilisGkaniatsas  
 
-## 📁 Project Structure
